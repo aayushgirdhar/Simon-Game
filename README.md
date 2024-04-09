@@ -1,7 +1,7 @@
 # Simon-Game
-A browser based color memory game.
+A browser-based memory game.
 
-I started learning JavaScript and jQuery following Dr. Angela Yu's web development course and developed this memory based browser game called "Simon Game". 
+Following Dr. Angela Yu's web development course, I started learning JavaScript and jQuery and developed this memory-based browser game called "Simon Game". 
 This game is developed in HTML, CSS, JavaScript and jQuery.
 
-live demo - https://aayushg02.github.io/Simon-Game/
+live demo - [https://aayushg02.github.io/Simon-Game/(https://aayushgirdhar.github.io/Simon-Game/)
